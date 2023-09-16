@@ -23,7 +23,8 @@
     "react-scripts": "4.0.3",
     "typescript": "^3.2.1",
     "web-vitals": "^1.1.2",
-    "yarn": "^1.22.19"
+    "yarn": "^1.22.19",
+    "express": "^4.17.1"
   },
   "peerDependencies": {
     "react": "^17.0.2",
